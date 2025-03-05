@@ -1,1 +1,1 @@
-# Gayathri-Training
+# Default Readme file
